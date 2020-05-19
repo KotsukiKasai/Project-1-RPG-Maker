@@ -1,0 +1,8 @@
+[
+null,
+{"id":1,"battlerName":"Stelker","characterIndex":0,"characterName":"Stelker1","classId":3,"equips":[3,0,2,3,4],"faceIndex":0,"faceName":"Stelker","traits":[],"initialLevel":1,"maxLevel":99,"name":"Stelker","nickname":"Destrukter","note":"","profile":""},
+{"id":2,"battlerName":"Kotsuki","characterIndex":0,"characterName":"Kotsuki1","classId":3,"equips":[3,0,2,3,4],"faceIndex":0,"faceName":"Kotsuki","traits":[],"initialLevel":1,"maxLevel":99,"name":"Kotsuki","nickname":"L'aryen","note":"","profile":""},
+{"id":3,"battlerName":"Jetnagha","characterIndex":0,"characterName":"Jetnagha","classId":1,"equips":[1,1,2,3,4],"faceIndex":0,"faceName":"Jetnagha","traits":[],"initialLevel":1,"maxLevel":99,"name":"Jetnagha","nickname":"SATANUS !!","note":"","profile":""},
+{"id":4,"battlerName":"Azrodsi","characterIndex":0,"characterName":"Azrodsi","classId":4,"equips":[4,0,2,3,4],"faceIndex":0,"faceName":"Azrodsi","traits":[],"initialLevel":1,"maxLevel":99,"name":"Azrodsi","nickname":"Père Dent","note":"","profile":""},
+{"id":5,"battlerName":"NCB","characterIndex":0,"characterName":"NCB","classId":2,"equips":[2,1,2,3,4],"faceIndex":0,"faceName":"NCB","traits":[],"initialLevel":1,"maxLevel":99,"name":"NCB","nickname":"Bougnoul-Killer","note":"","profile":""}
+]
